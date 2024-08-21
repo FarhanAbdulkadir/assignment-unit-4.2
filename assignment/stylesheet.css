@@ -1,0 +1,20 @@
+header{
+    background-color: coral;
+    
+}
+.info{
+    color: #2f4f4f;
+    background-color:darkkhaki;
+    text-align: center;
+
+}
+.img{
+
+    border: 2px solid lightcyan;
+    margin-left: 20px;
+    padding:7px 30px 7px 20px;
+    width: fit-content;
+    text-align: center;
+    color: burlywood;
+    
+}

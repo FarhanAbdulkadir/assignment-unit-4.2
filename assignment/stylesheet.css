@@ -1,20 +1,40 @@
 header{
     background-color: coral;
+    padding: 20px;
+    text-align: center;
     
 }
 .info{
     color: #2f4f4f;
     background-color:darkkhaki;
     text-align: center;
+    padding: 10px;
+    margin: 20px;
 
 }
 .img{
 
     border: 2px solid lightcyan;
     margin-left: 20px;
-    padding:7px 30px 7px 20px;
+    padding:7px 30px;
     width: fit-content;
     text-align: center;
-    color: burlywood;
     
+}
+
+.img h2 {
+
+    background-color: lightblue;
+    color: darkblue;
+    padding: 5px;
+    margin: 0;
+
+}
+
+.img h3 {
+
+    background-color: lightgreen;
+    color: darkgreen;
+    padding: 5px;
+    margin: 0;
 }
